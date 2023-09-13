@@ -1,0 +1,13 @@
+ p{color: rgb(19, 10, 10);
+   font-family: cursive;
+   text-shadow: 2px 2px 5px white;}
+p1{font-family: cursive;
+   color: rgb(38, 38, 206);
+   text-shadow: 2px 2px 5px black}
+   #grad {background-image: linear-gradient(to bottom right, red,orange,yellow,green,blue,indigo,violet); }
+ h1{color: rgb(30, 103, 119);
+    text-shadow: 2px 2px 5px black}
+ a{color: rgb(213, 104, 177);
+   font-size: 25px;}
+ *{font-size: 40px;}
+
